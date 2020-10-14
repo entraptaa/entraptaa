@@ -33,5 +33,5 @@
 </details>
 
 [twitter]: https://twitter.com/RiftSTW1
-[youtube]: https://youtube.com/RiftSTW
-[instagram]: https://instagram.com/RiftSTW
+[youtube]: https://www.youtube.com/channel/UCw-HS8Vn_N5ycWzWGArkPBQ
+[instagram]: https://instagram.com/oilymicrowave
