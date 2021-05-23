@@ -5,7 +5,6 @@
 ## Terrible Node.JS Dev
 
 ### Connect with me:
-[<img align="left" alt="Discord" src="https://discord.c99.nl/widget/theme-1/153980822670671872.png" />]
 [<img align="left" alt="RiftSTW | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RiftSTW | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RiftSTW | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
