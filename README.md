@@ -25,7 +25,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="RiftSTW's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RiftSTW&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
+  <img align="left" alt="RiftSTW's GitHub Stats" src="https://metrics.lecoq.io/RiftSTW?template=classic&languages=1&lines=1&isocalendar=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FChicago" />
 
 </details>
 
