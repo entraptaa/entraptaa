@@ -1,8 +1,7 @@
 ### Hi there, I'm RiftSTW 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RiftSTW1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRiftSTW&screen_name=RiftSTW1)
-![Discord](https://img.shields.io/discord/582304739815981140?label=My%20Discord&style=for-the-badge)
-
+![Discord](https://img.shields.io/discord/582304739815981140?color=purple&label=My%20Discord&style=for-the-badge)
 ## Terrible Node.JS Dev
 
 ### Connect with me:
