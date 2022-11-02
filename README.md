@@ -5,10 +5,8 @@
 ## Terrible Node.JS Dev
 
 ### Connect with me:
-[<img align="left" alt="RiftSTW | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RiftSTW | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RiftSTW | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="RiftSTW | YouTube" width="22px" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
+[<img align="left" alt="RiftSTW | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
