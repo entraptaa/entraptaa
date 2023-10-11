@@ -1,12 +1,12 @@
 ### Hi there, I'm RiftSTW 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RiftSTW1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRiftSTW&screen_name=RiftSTW1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RiftSTWLeaks?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRiftSTW&screen_name=RiftSTWLeaks)
 ![Discord](https://img.shields.io/discord/582304739815981140?color=purple&label=My%20Discord&style=for-the-badge)
 ## Terrible Node.JS Dev
 
 ### Connect with me:
 [<img align="left" alt="RiftSTW | YouTube" width="22px" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
-[<img align="left" alt="RiftSTW | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />][twitter]
+[<img align="left" alt="RiftSTWLeaks | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -28,6 +28,5 @@
 
 </details>
 
-[twitter]: https://twitter.com/RiftSTW1
+[twitter]: https://twitter.com/RiftSTWLeaks
 [youtube]: https://www.youtube.com/channel/UCw-HS8Vn_N5ycWzWGArkPBQ
-[instagram]: https://instagram.com/oilymicrowave
